@@ -33,6 +33,7 @@ body {
   opacity: 0.8;
 }
 
-#home-section .fas {
+#home-section .fas,
+i {
   color: #008ed6;
 }
